@@ -436,7 +436,6 @@ scene.fog = new THREE.FogExp2("#04343f", 0.1);
  * Animate
  */
 const timer = new Timer();
-console.log(timer);
 
 const tick = () => {
   // Timer
